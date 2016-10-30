@@ -1,5 +1,5 @@
 /* globals HTMLElement, customElements */
-const funky = require('../funky')
+const funky = require('funky')
 const yo = require('yo-yo')
 const assign = require('lodash.assign')
 const bel = require('bel')
